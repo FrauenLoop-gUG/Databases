@@ -14,10 +14,12 @@ aggregate functions (count, sum, min, max, avg)
 [http://www.w3schools.com/sql/sql_distinct.asp]()
 
 [http://www.w3schools.com/sql/sql_functions.asp]() (just aggregate functions)
+
 (Stretch Goal: [http://www.w3schools.com/sql/sql_alias.asp]() - could introduce in combination with functions)
 
 ## Quizzes: ##
 [https://sqlbolt.com/lesson/select_queries_introduction]()
+
 [https://sqlbolt.com/lesson/select_queries_with_aggregates]()
 
 ## Tutorials: ##

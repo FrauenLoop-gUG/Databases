@@ -14,7 +14,7 @@ INSERT INTO UserAccount (Id, FirstName, LastName, UserName, Password)
 VALUES ('1','Jacky','Chan','Jacky989','123456');
 
 /* Check if the data is there */
-select * from UserAccount;
+SELECT * FROM UserAccount;
 
 /* 
   In case your Id is not created as primary key, you can alter the table

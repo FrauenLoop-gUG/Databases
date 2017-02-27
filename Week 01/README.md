@@ -1,4 +1,6 @@
-# Content Covered: #
+# Week1 Class2 #
+
+## Content Covered: ##
 Intro to topic and database structure
 (and intro to SQL and select? see side notes below)
 

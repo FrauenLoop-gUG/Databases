@@ -2,12 +2,13 @@
 
 ## Content Covered: ##
 
-Quick Quiz at the start of class
-Review CREATE, INSERT, DELETE, SELECT statements and get people up to speed.
-Present WHERE clauses with multiple criteria 
-Present LEFT JOIN of tables
-Present aliasing of a table
-Give students the chance to work on the above by creating their own tables.
+* Quick Quiz at the start of class
+* Review CREATE, INSERT, DELETE, SELECT statements and get people up to speed.
+* Present WHERE clauses with multiple criteria 
+* Present LEFT JOIN of tables
+* Present aliasing of a table
+* Give students the chance to work on the above by creating their own tables.
+
 
 
 ## Side Notes: ##

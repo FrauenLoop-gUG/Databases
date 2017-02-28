@@ -11,26 +11,26 @@ If the sides are a good start, what slides to do on Thursday?
 
 ## 2.	Week - Intro to SQL ##
 
-http://www.w3schools.com/sql/sql_syntax.asp
+[http://www.w3schools.com/sql/sql_syntax.asp]()
 
 what tutorials to do on Thursday?
 
 ## 3.  Week - Intro to Query (Select Statement) ##
 
-http://www.w3schools.com/sql/sql_select.asp
+[http://www.w3schools.com/sql/sql_select.asp]()
 
-http://www.w3schools.com/sql/sql_distinct.asp
+[http://www.w3schools.com/sql/sql_distinct.asp]()
 
 what tutorials to do on Thursday?
 
 
 ## 4.	Week - Expressions Conditions Operators##
 
-http://www.w3schools.com/sql/sql_where.asp 
+[http://www.w3schools.com/sql/sql_where.asp]() 
 
-http://www.w3schools.com/sql/sql_and_or.asp
+[http://www.w3schools.com/sql/sql_and_or.asp]()
 
-http://www.w3schools.com/sql/sql_orderby.asp (Thurs?)
+[http://www.w3schools.com/sql/sql_orderby.asp]() (Thurs?)
 
 
 # DATASET QUERIES #

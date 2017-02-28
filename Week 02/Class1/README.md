@@ -13,8 +13,6 @@
 
 ## Side Notes: ##
 
-Need SQL examples 
-
 
 * LEFT JOIN seems to be a concept that people are struggling with. More attention needs to be paid to it. 
 * NON '=' where statements (<,>,like,!=, etc) need to be covered. 

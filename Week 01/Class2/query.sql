@@ -13,6 +13,12 @@ CREATE TABLE UserAccount
 INSERT INTO UserAccount (Id, FirstName, LastName, UserName, Password)
 VALUES ('1','Jacky','Chan','Jacky989','123456');
 
+
+INSERT INTO UserAccount VALUES ('2','Chuck','Norris','Chuck4ever','abcdefg');
+INSERT INTO UserAccount VALUES ('3','Jeff','K','jeff.k','null');
+INSERT INTO UserAccount VALUES ('4','Tom','Cruise','tc','abcdefg');
+INSERT INTO UserAccount VALUES ('5','Tom','Hanks','th','abcdefg');
+
 /* Check if the data is there */
 SELECT * FROM UserAccount;
 
@@ -31,3 +37,4 @@ SELECT * FROM UserAccount;
 
 ALTER TABLE UserAccount
 ADD PRIMARY KEY (Id);
+

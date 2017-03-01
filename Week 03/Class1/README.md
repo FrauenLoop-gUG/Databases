@@ -15,3 +15,20 @@
 
 - Chapter 4 of MonaLisa
 
+
+First multi-join, multi-table queries:
+
+```sql
+
+SELECT * FROM Users u 
+LEFT JOIN Books b on u.id = b.ownerId
+LEFT JOIN Reviews r on b.id = r.bookId;
+
+
+SELECT DISTINCT u.id, AVG(r.numStars) FROM Users u
+LEFT JOIN Books b on u.id = b.ownerId
+LEFT JOIN Reviews r on b.id = r.bookId
+GROUP BY u.id
+ORDER BY AVG(r.numStars) DESC;
+
+```

@@ -1,8 +1,12 @@
 # Week 4 Class 1 #
 
-Using US Immigration data complete the following 
+Review of concepts from pervious class 
 
-Basic db structure and straight reporting questions: (e.g., how many …X)?
+Using US Immigration data build the table sturcture and import data. 
+
+Break
+
+How many.....
 
 -immigrants with no children
 

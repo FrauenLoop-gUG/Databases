@@ -11,3 +11,6 @@
 [Andorid SoloLearn](https://play.google.com/store/apps/details?id=com.sololearn.sql&hl=en)
 
 [iPhone SoloLearn](https://itunes.apple.com/us/app/learn-sql/id953775305?mt=8)
+
+# Reference PPTs #
+

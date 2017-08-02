@@ -1,73 +1,59 @@
 # Course Outline #
 
-## 1.	Week - What is data (simple models / Dataset ideas… ##
+## 1.	Week - What is data (simple models / schemas) ##
 
-Need some links from suggested public datasets
-
-Maybe use the attached PowerPoint in two sessions, to introduce data & databases?
-
-If the sides are a good start, what slides to do on Thursday?
+See class email + resources folder for linked schema concept & explanation references.
 
 
 ## 2.	Week - Intro to SQL ##
 
+Library/book schema examples and basic SQL syntax.
 [http://www.w3schools.com/sql/sql_syntax.asp]()
 
-what tutorials to do on Thursday?
 
 ## 3.  Week - Intro to Query (Select Statement) ##
 
+Analytic & transactional analysis covered in a two-part series of challenge questions.
+
 [http://www.w3schools.com/sql/sql_select.asp]()
-
 [http://www.w3schools.com/sql/sql_distinct.asp]()
-
-what tutorials to do on Thursday?
 
 
 ## 4.	Week - Expressions Conditions Operators##
 
+Analytic & transactional analysis covered in the second part of the challenge questions
+
 [http://www.w3schools.com/sql/sql_where.asp]() 
-
 [http://www.w3schools.com/sql/sql_and_or.asp]()
+[http://www.w3schools.com/sql/sql_orderby.asp]() 
 
-[http://www.w3schools.com/sql/sql_orderby.asp]() (Thurs?)
+## 5.	Week - Table joins and views ##
+
+Left and right joins, how they work and how views are created
 
 
 # DATASET QUERIES #
 
-## 5.	Week - Modeling the Data You Retrieve ##
+## 6.	Week - Modeling the Data You Retrieve ##
 
-need w3schools tutorials
-
-need w3schools tutorials
-
-## 6.	Week - Classes in SQL ##
+Introduction to Sqlite and importing Kaggle public datasets
 
 
-need w3schools tutorials
+## 7.	Week - Classes in SQL ##
 
-need w3schools tutorials
-
-## 7.	Week - Joining Tables ##
+Importing Kaggle dataset/s and creating tables
 
 
-need w3schools tutorials
+## 8.	Week - Working with datasets ##
 
-need w3schools tutorials
-
-## 8.	Week - Normalization ##
+Reference class notes on Kaggle/external datasets used for class project.
 
 
-need w3schools tutorials
+## 9.	Week - Working with your database ##
 
-need w3schools tutorials
+Reference class notes on Kaggle/external datasets used for class project.
 
-# MORE ADVANCED? DATASET QUERIES # 
 
-##    9. Week - Visualization / tutorials? ##
+## 10.	Week - Visualization ##
 
-##   10. Week - Visualization  / tutorials? (writing queries in Ruby / dashing.io?) ##
-
-##   11. Week - Visualization  / tutorials? ##
-
-   12. Week - ???
+Reference class links to Sinatra app to visualize completed database extracts.
